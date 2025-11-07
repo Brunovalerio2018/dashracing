@@ -1,4 +1,4 @@
-# 🏎️ Telemetry Dashboard - Moza Racing Style
+# 🏎️ Telemetry Dashboard - DashRacing Style
 
 Bem-vindo ao **Telemetry Dashboard**, um painel de telemetria **estilo Moza Racing** criado em **React Native** para simulação de corrida! Este projeto é perfeito para quem quer transformar dados de RPM, velocidade, marcha e tempo em uma experiência visual **imersiva e responsiva**, direto no seu dispositivo móvel.
 
