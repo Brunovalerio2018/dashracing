@@ -6,7 +6,7 @@ Bem-vindo ao **Telemetry Dashboard**, um painel de telemetria **estilo Moza Raci
 
 ## ✨ Principais Funcionalidades
 
-- 🔴 **LEDs de RPM dinâmicos** com cores progressivas (verde → amarelo → laranja → vermelho).  
+- 🔴 **LEDs de RPM dinâmicos** com cores progressivas (verde → amarelo → vermelho -> litador em roxo).  
 - 🌟 **Pisca neon** quando o RPM atinge o limite máximo.  
 - ⚡ **Animação de marcha** central, com efeito de zoom ao trocar de marcha.  
 - 🏁 **Exibição de velocidade** em km/h e RPM em tempo real.  
